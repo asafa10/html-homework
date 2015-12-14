@@ -1,0 +1,92 @@
+@CHARSET "UTF-8";
+
+
+.outer > p {
+	color: white;
+	font-size: 3em;
+	font-family: Algerian;
+	padding-top: -0.5em;
+}
+
+
+.pleft p {
+	color: red;
+	font-size: 2em;
+	font-family: Algerian;
+	margin-left: 120px;
+	margin-top: -20px;
+}
+
+.pcenter p {
+	color: red;
+	font-size: 2em;
+	font-family: Algerian;
+	margin-left: 600px;
+	margin-top: 0px;
+}
+
+.pright p {
+	color: red;
+	font-size: 2em;
+	font-family: Algerian;
+	margin-left: 1050px;
+	padding-top: -0.5em;
+}
+
+.mypage p {
+	color: red;
+	font-size: 4em;
+	font-family: Algerian;
+	padding-top: -0.5em;
+	padding-left: 10em;
+}
+
+.mypagetxt p {
+	color: white;
+	font-size: 1.3em;
+	font-family: Andalus;
+	margin-left: 10.5em;
+	margin-bottom: 12em;
+}
+
+.mypageimg img {
+	margin-left: 1.5em;
+	height: 440px;
+	width: 260px;
+}
+
+.fordiv hr {
+	margin-top: -2em;
+}
+
+.myskills table {
+	margin-top: 1.2em;
+	font-size: 1.3em;
+	color: green;
+	text-align: center;
+	margin-bottom: 1.2em;
+	width: 600px;
+	height: 125px;
+	border-color: orange;
+}
+
+.comment label {
+	color: white;
+	font-size: 1.1em;
+	font-family: Andalus;
+	margin-bottom: 12em;
+	padding-right: 3em;
+}
+.commenth2 h2 {
+	color: white;
+}
+
+.margin div {
+	margin-top: 3em;
+}
+
+button {
+	margin-top: 1.2em;
+	width: 12em;
+}
+

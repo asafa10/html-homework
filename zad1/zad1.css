@@ -1,0 +1,38 @@
+@CHARSET "UTF-8";
+
+
+.alignment input{
+	margin-left: 4.5em;
+}
+
+.alignment3 label+select{
+	margin-left: 4.5em;
+}
+
+.alignment2 input{
+	margin-left: 7.2em;
+}
+
+.alignment4 input{
+	margin-left: 5.8em;
+}
+
+.alignment5 input{
+	margin-left: 5.2em;
+}
+
+.alignment6 input{
+	margin-left: 2.9em;
+}
+
+.alignment7 input{
+	margin-left: 4.1em;
+}
+
+.alignment8 input{
+	margin-left: 0.5em;
+}
+
+.alignment9 label+input{
+	margin-left: 1.1em;
+}
